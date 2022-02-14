@@ -12,7 +12,6 @@ Vue.use(ElementUI);
 //测试版本1
 //测试版本2
 //测试版本3
-//测试版本4
 new Vue({
   router,
   store,
