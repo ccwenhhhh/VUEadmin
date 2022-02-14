@@ -10,6 +10,7 @@ import "./icons";
 Vue.config.productionTip = false
 Vue.use(ElementUI);
 //测试版本1
+//测试版本2
 new Vue({
   router,
   store,
